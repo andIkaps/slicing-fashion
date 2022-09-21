@@ -1,17 +1,19 @@
 <script setup>
 import IconArrowRight from './icons/IconArrowRight.vue'
 import Favorites from './Favorites.vue'
+import product_4 from '@/assets/assets/img/product_4.png'
+import product_5 from '@/assets/assets/img/product_5.png'
 
 const youngsFavorite = [
   {
     id: 1,
     title: 'Trending on instagram',
-    image: 'src/assets/img/product_4.png',
+    image: product_4,
   },
   {
     id: 2,
     title: 'All Under $40',
-    image: 'src/assets/img/product_5.png',
+    image: product_5,
   },
 ]
 </script>
