@@ -1,8 +1,8 @@
 <script setup>
 import IconArrowRight from './icons/IconArrowRight.vue'
 import Favorites from './Favorites.vue'
-import product_4 from '@/assets/assets/img/product_4.png'
-import product_5 from '@/assets/assets/img/product_5.png'
+import product_4 from '@/assets/img/product_4.png'
+import product_5 from '@/assets/img/product_5.png'
 
 const youngsFavorite = [
   {
