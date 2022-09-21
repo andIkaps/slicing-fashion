@@ -3,7 +3,7 @@
 
 Fashion ini adalah sebuah project slicing saya yang sedang belajar slicing dari figma dan di implementasikan menggunakan vue js dan tailwindcss
 
-<img src='./demo.png' width="100" />
+<img src='./demo.png' />
 
 
 ## Installation
