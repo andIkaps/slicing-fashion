@@ -1,29 +1,29 @@
-# fashion
 
-This template should help get you started developing with Vue 3 in Vite.
+# Fashion
 
-## Recommended IDE Setup
+Fashion ini adalah sebuah project slicing saya yang sedang belajar slicing dari figma dan di implementasikan menggunakan vue js dan tailwindcss
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<img src='./demo.png' width="100" />
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Installation
 
-## Project Setup
+Install my-project with npm
 
-```sh
-npm install
+```bash
+  git clone https://github.com/andikaPs/slicing-fashion.git
+  cd slicing-fashion
+  npm install
+  npm run dev
+  npm run build
 ```
 
-### Compile and Hot-Reload for Development
+Install my-project with yarn
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+```bash
+  git clone https://github.com/andikaPs/slicing-fashion.git
+  cd slicing-fashion
+  yarn
+  yarn dev
+  yarn build
 ```
